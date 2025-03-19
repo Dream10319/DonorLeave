@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DonorLeave", "DonorLeave.vbproj", "{FEEAC939-3BCB-4E05-B338-B85C17127EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEAC939-3BCB-4E05-B338-B85C17127EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEAC939-3BCB-4E05-B338-B85C17127EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEAC939-3BCB-4E05-B338-B85C17127EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEAC939-3BCB-4E05-B338-B85C17127EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD3C5960-E34A-4BA9-AA73-7DB2823E23F2}
+	EndGlobalSection
+EndGlobal
