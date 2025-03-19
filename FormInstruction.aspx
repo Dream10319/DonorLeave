@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="FormInstruction.aspx.vb" Inherits="DonorLeaveRequest.FormInstruction" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="FormInstruction.aspx.vb" Inherits="DonorLeave.FormInstruction" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -23,8 +23,9 @@
             padding: 50px;
             text-align: center;
             width: 40%;
-            background: white;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
+            background-color: #FDBE11;
+            box-shadow: 0 15px 25px rgba(0, 0, 0, .3);
+            border-radius: 10px;
         }
 
         .text-center {
